@@ -1,6 +1,6 @@
 -# sobre mim 
--  👋 olá meu nome é @christoffoliana
-- 👀 meu email de contato é estudante.alura@gmail.com.br
+-  👋 olá meu nome é **@christoffoliana**
+- 👀 meu email de contato é (email) (estudante.alura@gmail.com.br)
 - 🌱eu estou interessado em aprender a programar a novas linguagens 
 - 💞️ eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratch 
 
