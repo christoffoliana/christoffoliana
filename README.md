@@ -3,7 +3,7 @@
 - 👀 meu email de contato é estudante.alura@gmail.com.br
 - 🌱eu estou interessado em aprender a programar a novas linguagens 
 - 💞️ eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratch 
-- 📫 How to reach me ...
+
 
 <!---
 christoffoliana/christoffoliana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
